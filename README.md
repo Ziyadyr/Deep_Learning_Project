@@ -9,8 +9,8 @@ Keyword Extraction: Extracting Keywords from Text
 Sentiment Analysis: using Sentiment Analysis
 
 ### 📂 Project Structure
-📦 Deep_Learning_Project
-├── project/               # Jupyter notebook for experimentation
+📦 Deep_Learning_Project <br>
+├── project/               # Jupyter notebook for experimentation<br>
 └── README.md              # Project documentation
 
 ### 🛠️ Installation
