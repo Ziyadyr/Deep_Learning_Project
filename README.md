@@ -3,9 +3,9 @@
 ## This repository contains a deep learning project designed to extract meaningful information from unstructured text data. By leveraging Natural Language Processing (NLP) techniques and deep learning models, this project transforms raw textual data into structured and actionable insights.
 
 ### 🚀 Features
-Named Entity Recognition (NER): Extract entities like names, dates, locations, and organizations.
-URLs Extraction: Extract URLs from Raw text.
-Keyword Extraction: Extracting Keywords from Text
+Named Entity Recognition (NER): Extract entities like names, dates, locations, and organizations.<br>
+URLs Extraction: Extract URLs from Raw text.<br>
+Keyword Extraction: Extracting Keywords from Text<br>
 Sentiment Analysis: using Sentiment Analysis
 
 ### 📂 Project Structure
@@ -20,7 +20,7 @@ git clone https://github.com/Ziyadyr/Deep_Learning_Project.git
 Contributions are welcome! Please fork the repository and create a pull request. For major changes, open an issue to discuss the proposed changes.
 
 ### 📧 Contact
-For questions or suggestions, feel free to reach out:
-Name: Ziyad yasser
-Email: z.abdelsa01930@student.aast.edu
+For questions or suggestions, feel free to reach out: <br>
+Name: Ziyad yasser <br>
+Email: z.abdelsa01930@student.aast.edu <br>
 GitHub: Ziyadyr
