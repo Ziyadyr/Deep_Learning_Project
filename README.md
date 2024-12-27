@@ -2,11 +2,16 @@
 
 ## This repository contains a deep learning project designed to extract meaningful information from unstructured text data. By leveraging Natural Language Processing (NLP) techniques and deep learning models, this project transforms raw textual data into structured and actionable insights.
 
+### Dataset : https://www.kaggle.com/datasets/ranand60/unstructured-text-language-data/data
+
 ### 🚀 Features
 Named Entity Recognition (NER): Extract entities like names, dates, locations, and organizations.<br>
 URLs Extraction: Extract URLs from Raw text.<br>
 Keyword Extraction: Extracting Keywords from Text<br>
 Sentiment Analysis: using Sentiment Analysis
+
+### Clustering
+Clustering the text into 2 Clusters 
 
 ### 📂 Project Structure
 📦 Deep_Learning_Project <br>
